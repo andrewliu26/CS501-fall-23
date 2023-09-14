@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Test 9-7-2023</string>
-    <string name="introduction">Hi, my name is %s</string>
     <string name="myName">Andrew</string>
 </resources>
